@@ -1,0 +1,19 @@
+Java Keywords List
+Java contains a list of keywords or reserved words which are also highlighted with different colors 
+be it an IDE or editor in order to segregate the differences between flexible words and reserved words. 
+They are listed below in the table with the primary action associated with them.
+
+Important Points:
+The keywords const and goto are reserved, even though they are not currently in use.
+Currently, they are no longer supported in Java.
+true, false, and null look like keywords, but in actuality they are literals. 
+However, they still can’t be used as identifiers in a program.
+FAQs – Java Keyowrds
+What are the keywords of Java?
+Keywords are the reserved words in Java having certain meanings.
+ These words are not allowed to use as variable names or object names.
+
+
+How many keywords are in Java?
+There are 67 Keywords in Java.
+
