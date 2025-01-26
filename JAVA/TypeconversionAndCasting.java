@@ -18,5 +18,16 @@ public class TypeconversionAndCasting
 
                 b=a;                            //Implicitly converting itself
                 System.out.println(b);
+
+
+                int  x = 258;                   
+                byte y = (byte)x;
+                System.out.println(y);          //The output=2 as byte range exceded it will give the modulus of byte range to the value(256%258)
+
+                float f = 2.34f;
+                int   i = (int)f;
+                System.out.println(i);
+                
+
             }
     }
